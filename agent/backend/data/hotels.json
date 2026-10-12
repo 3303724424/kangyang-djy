@@ -1,0 +1,5 @@
+[
+  {"name":"青城温泉康养住居样例","rating":4.7,"price_per_night":420,"accessible":true,"tags":["康养","温泉","营养餐"],"note":"样例数据，需核验真实合作与房态。"},
+  {"name":"都江堰城市便利住居样例","rating":4.5,"price_per_night":320,"accessible":true,"tags":["无障碍","营养餐"],"note":"样例数据，需核验真实合作与房态。"},
+  {"name":"青城静养住居样例","rating":4.6,"price_per_night":520,"accessible":false,"tags":["康养","静养"],"note":"样例数据，需核验真实合作与房态。"}
+]

@@ -1,0 +1,5 @@
+[
+  {"name":"都江堰景区","lat":30.995,"lng":103.614,"ticket":80,"base_score":10,"rest_points":true,"tags":["文化讲解","山水慢游"],"mobility_support":["可轻松步行","需要减少步行","需轮椅/无障碍协助"],"low_intensity_activity":"南桥周边茶歇与文化交流"},
+  {"name":"熊猫谷","lat":30.899,"lng":103.604,"ticket":55,"base_score":8,"rest_points":true,"tags":["熊猫探访","山水慢游"],"mobility_support":["可轻松步行","需要减少步行"],"low_intensity_activity":"休息区观赏与照片留念"},
+  {"name":"青城山周边自然观景区","lat":30.907,"lng":103.566,"ticket":45,"base_score":8,"rest_points":true,"tags":["山水慢游","温泉疗愈"],"mobility_support":["可轻松步行","需要减少步行"],"low_intensity_activity":"平缓步道观景与呼吸舒展"}
+]
