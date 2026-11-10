@@ -1,0 +1,29 @@
+# Large model weights and LoRA adapters: never push to normal GitHub repositories.
+models/
+后端部署/models/
+*.safetensors
+*.bin
+*.gguf
+*.pt
+*.pth
+checkpoint-*/
+
+# Training data and generated training outputs.
+training/
+data/InstructIE/
+data/huangface/
+data/train_1M_CN/
+raw_sources/
+
+# Python / local environment artifacts.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+*.log
+
+# Local delivery archives.
+*.zip
+*.7z

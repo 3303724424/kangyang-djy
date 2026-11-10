@@ -1,0 +1,54 @@
+[
+  {
+    "id": "zuowang-forest-hotel",
+    "name": "坐忘森林酒店",
+    "location": "四川省都江堰市青城山镇沙坪村五组",
+    "contact": "+86-28-87230088",
+    "wellness_tags": ["静修", "冥想", "气功", "瑜伽", "茶道", "温泉体验"],
+    "elderly_service_status": "需向酒店核验电梯、无障碍、防滑、医疗支持与接送条件",
+    "source_url": "https://zuowang-hotel.com/zh-hans/",
+    "source_type": "hotel_official_website",
+    "collected_at": "2026-10-26",
+    "review_status": "pending_review",
+    "real_time_confirmation_required": ["房价", "房态", "课程安排", "温泉开放", "接送服务"]
+  },
+  {
+    "id": "xikang-wellness-resort-qingchengshan",
+    "name": "青城山熙康云舍健康度假酒店",
+    "location": "青城山脚下，毗邻东软信息学院；具体入住地址需向酒店确认",
+    "contact": "需从酒店官方预订或联系渠道核验",
+    "wellness_tags": ["自然疗愈", "健康管理", "温泉水疗", "康养度假"],
+    "elderly_service_status": "需核验具体适老设施、服务资质、适用人群与紧急支持安排",
+    "source_url": "https://www.xikangyunshe.com/",
+    "source_type": "brand_official_website",
+    "collected_at": "2026-10-26",
+    "review_status": "pending_review",
+    "real_time_confirmation_required": ["房价", "房态", "康养套餐", "温泉开放", "健康管理服务"]
+  },
+  {
+    "id": "six-senses-qing-cheng-mountain",
+    "name": "青城山六善酒店",
+    "location": "四川省成都市都江堰市青城山镇东软大道2号",
+    "contact": "+86 28 8712 6666",
+    "wellness_tags": ["水疗", "康体", "道家疗法主题体验", "文化体验"],
+    "elderly_service_status": "需核验适老房型、无障碍条件、温泉/水疗服务是否适合具体老人及服务可用性",
+    "source_url": "https://www.sixsenses.com/zh/hotels-resorts/asia-the-pacific/china/qing-cheng-mountain/",
+    "source_type": "hotel_official_website",
+    "collected_at": "2026-10-26",
+    "review_status": "pending_review",
+    "real_time_confirmation_required": ["房价", "房态", "水疗预约", "接送服务", "餐饮安排"]
+  },
+  {
+    "id": "shoo-in-qingchengshan-base",
+    "name": "树荫康养青城山接待基地",
+    "location": "青城山景区附近；具体地址需向服务方核验",
+    "contact": "181-1664-5762",
+    "wellness_tags": ["康养旅居", "餐厅", "活动房", "茶室", "健身区"],
+    "elderly_service_status": "公开介绍提及会员专属电梯等设施；需核验具体地址、服务资格、适老设施和可预订性",
+    "source_url": "https://www.shoo-ingroup.com/",
+    "source_type": "brand_official_website",
+    "collected_at": "2026-10-26",
+    "review_status": "pending_review",
+    "real_time_confirmation_required": ["入住资格", "房价", "房态", "康养项目", "接送与医疗支持"]
+  }
+]

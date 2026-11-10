@@ -1,0 +1,373 @@
+{
+  "request_id": "example-request-id",
+  "status": "success",
+  "generated_at": "2026-11-08T00:00:00+00:00",
+  "frontend_payload": {
+    "version": "travel_frontend_payload_v1",
+    "status": "demo_pending_confirmation",
+    "summary": {
+      "headline": "张阿姨，今天我们慢一点，把风景留给舒服的节奏。",
+      "subheadline": "2位同行长者 · 3天 · 需要减少步行",
+      "care_copy": "我们已为您预留午休、返程缓冲和随时调整的空间。",
+      "render_style": "warm_hero"
+    },
+    "days": [
+      {
+        "day": 1,
+        "title": "都江堰城区｜都江堰景区",
+        "emotion_copy": "第一天不用着急，把脚步放慢，先和都江堰的水声打个招呼。",
+        "render_style": "daily_timeline",
+        "timeline": [
+          {
+            "period": "上午",
+            "time_range": "10:00 - 11:30",
+            "title": "都江堰景区慢游与休息点停留（当日只安排一个主游览区域）",
+            "kind": "scenic",
+            "tone": "gentle",
+            "icon": "🌿",
+            "render_style": "timeline_card"
+          },
+          {
+            "period": "中午",
+            "time_range": "12:00 - 14:30",
+            "title": "午餐、午休与交通缓冲；不安排赶路或连续打卡",
+            "kind": "rest",
+            "tone": "warm",
+            "icon": "🍲",
+            "render_style": "timeline_card"
+          },
+          {
+            "period": "下午",
+            "time_range": "15:00 - 16:00",
+            "title": "南桥周边茶歇与文化交流；16:00 后返回住处休息",
+            "kind": "slow_walk",
+            "tone": "gentle",
+            "icon": "🚶",
+            "render_style": "timeline_card"
+          },
+          {
+            "period": "晚间",
+            "time_range": "16:00 - 17:00",
+            "title": "返回住处休息；19:00-20:00 温泉放松时段（演示）（40分钟，演示项目，需确认）",
+            "kind": "hotel",
+            "tone": "calm",
+            "icon": "🏨",
+            "render_style": "timeline_card"
+          }
+        ],
+        "meal_candidate": {
+          "id": "candidate-green-gem",
+          "name": "绿宝石",
+          "address": "成都市都江堰市外北街886号",
+          "area": "都江堰城区",
+          "category": "餐饮候选",
+          "elderly_dining_tip": "如需清淡饮食、少辣或软烂菜品，请在点餐前向店家沟通。",
+          "source_level": "public_web_candidate",
+          "source_url": "https://www.eastchinatrip.com/zh-hant/chengdu-dujiangyan-scenic-area-guide/",
+          "realtime_confirmation_required": true,
+          "note": "地址来源于公开攻略资料；营业状态、菜品、价格、停车和无障碍情况需出发前再次确认。"
+        },
+        "wellness": {
+          "status": "scheduled_candidate",
+          "time": "19:00-20:00",
+          "name": "温泉放松时段（演示）",
+          "warm_copy": "今天走得刚刚好，晚间项目可按身体状态灵活取消。",
+          "confirmation": "请确认名额、费用、服务资质和老人身体适用性。"
+        },
+        "student_guide": {
+          "status": "demo_pending_manual_confirmation",
+          "warm_copy": "有人陪着，问路、休息和沟通都会更从容。",
+          "scope": [
+            "景区陪同",
+            "文化讲解",
+            "沟通协助",
+            "基础应急求助协助"
+          ],
+          "notice": "仅在用户确认服务并完成排班后安排；不提供医疗、理疗、按摩、诊断或给药服务。"
+        },
+        "safety_copy": "如果今天感觉疲劳、头晕或膝盖不适，跳过后续活动也完全没关系。",
+        "confirmations": [
+          "出发前向景区核验当天开放状态、天气和无障碍/休息设施",
+          "如老人出现疲劳、疼痛或眩晕，当日取消后续活动并优先休息或求助",
+          "康养项目为演示排程，须由酒店确认开放时间、资质、名额及老人适用性。"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "熊猫谷片区｜熊猫谷",
+        "emotion_copy": "今天以轻松陪伴为主，看到喜欢的风景就多停一会儿。",
+        "render_style": "daily_timeline",
+        "timeline": [
+          {
+            "period": "上午",
+            "time_range": "10:00 - 11:30",
+            "title": "熊猫谷慢游与休息点停留（当日只安排一个主游览区域）",
+            "kind": "scenic",
+            "tone": "gentle",
+            "icon": "🌿",
+            "render_style": "timeline_card"
+          },
+          {
+            "period": "中午",
+            "time_range": "12:00 - 14:30",
+            "title": "午餐、午休与交通缓冲；不安排赶路或连续打卡",
+            "kind": "rest",
+            "tone": "warm",
+            "icon": "🍲",
+            "render_style": "timeline_card"
+          },
+          {
+            "period": "下午",
+            "time_range": "15:00 - 16:00",
+            "title": "休息区观赏与照片留念；16:00 后返回住处休息",
+            "kind": "slow_walk",
+            "tone": "gentle",
+            "icon": "🚶",
+            "render_style": "timeline_card"
+          },
+          {
+            "period": "晚间",
+            "time_range": "16:00 - 17:00",
+            "title": "返回住处休息；17:30-19:00 清淡营养晚餐建议（演示）（60分钟，演示项目，需确认）",
+            "kind": "hotel",
+            "tone": "calm",
+            "icon": "🏨",
+            "render_style": "timeline_card"
+          }
+        ],
+        "meal_candidate": null,
+        "wellness": {
+          "status": "scheduled_candidate",
+          "time": "17:30-19:00",
+          "name": "清淡营养晚餐建议（演示）",
+          "warm_copy": "今天走得刚刚好，晚间项目可按身体状态灵活取消。",
+          "confirmation": "请确认名额、费用、服务资质和老人身体适用性。"
+        },
+        "student_guide": {
+          "status": "demo_pending_manual_confirmation",
+          "warm_copy": "有人陪着，问路、休息和沟通都会更从容。",
+          "scope": [
+            "景区陪同",
+            "文化讲解",
+            "沟通协助",
+            "基础应急求助协助"
+          ],
+          "notice": "仅在用户确认服务并完成排班后安排；不提供医疗、理疗、按摩、诊断或给药服务。"
+        },
+        "safety_copy": "如果今天感觉疲劳、头晕或膝盖不适，跳过后续活动也完全没关系。",
+        "confirmations": [
+          "出发前向景区核验当天开放状态、天气和无障碍/休息设施",
+          "如老人出现疲劳、疼痛或眩晕，当日取消后续活动并优先休息或求助",
+          "康养项目为演示排程，须由酒店确认开放时间、资质、名额及老人适用性。"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "青城山片区｜青城山周边自然观景区",
+        "emotion_copy": "旅程的最后一天，留一点从容给山风，也留一点体力给返程。",
+        "render_style": "daily_timeline",
+        "timeline": [
+          {
+            "period": "上午",
+            "time_range": "10:00 - 11:30",
+            "title": "青城山周边自然观景区慢游与休息点停留（当日只安排一个主游览区域）",
+            "kind": "scenic",
+            "tone": "gentle",
+            "icon": "🌿",
+            "render_style": "timeline_card"
+          },
+          {
+            "period": "中午",
+            "time_range": "12:00 - 14:30",
+            "title": "午餐、午休与交通缓冲；不安排赶路或连续打卡",
+            "kind": "rest",
+            "tone": "warm",
+            "icon": "🍲",
+            "render_style": "timeline_card"
+          },
+          {
+            "period": "下午",
+            "time_range": "15:00 - 16:00",
+            "title": "平缓步道观景与呼吸舒展；16:00 后返回住处休息",
+            "kind": "slow_walk",
+            "tone": "gentle",
+            "icon": "🚶",
+            "render_style": "timeline_card"
+          },
+          {
+            "period": "晚间",
+            "time_range": "16:00 - 17:00",
+            "title": "返回住处休息；19:00-20:00 温泉放松时段（演示）（40分钟，演示项目，需确认）",
+            "kind": "hotel",
+            "tone": "calm",
+            "icon": "🏨",
+            "render_style": "timeline_card"
+          }
+        ],
+        "meal_candidate": {
+          "id": "candidate-qingcheng-jia",
+          "name": "青城甲（青城山店）",
+          "address": "青城山风景区渠山路上元社区6组52号附2号",
+          "area": "青城山片区",
+          "category": "餐饮候选",
+          "elderly_dining_tip": "可提前沟通少油少盐、菜量与座位需求；如行动不便，请确认停车、通道和卫生间情况。",
+          "source_level": "platform_candidate",
+          "source_url": "https://gs.ctrip.com/html5/you/foods/fooddetail/143879/16443868.html",
+          "realtime_confirmation_required": true,
+          "note": "地址来源于携程公开店铺资料；营业状态、预订、菜品、价格和适老设施需出发前再次确认。"
+        },
+        "wellness": {
+          "status": "scheduled_candidate",
+          "time": "19:00-20:00",
+          "name": "温泉放松时段（演示）",
+          "warm_copy": "今天走得刚刚好，晚间项目可按身体状态灵活取消。",
+          "confirmation": "请确认名额、费用、服务资质和老人身体适用性。"
+        },
+        "student_guide": {
+          "status": "demo_pending_manual_confirmation",
+          "warm_copy": "有人陪着，问路、休息和沟通都会更从容。",
+          "scope": [
+            "景区陪同",
+            "文化讲解",
+            "沟通协助",
+            "基础应急求助协助"
+          ],
+          "notice": "仅在用户确认服务并完成排班后安排；不提供医疗、理疗、按摩、诊断或给药服务。"
+        },
+        "safety_copy": "如果今天感觉疲劳、头晕或膝盖不适，跳过后续活动也完全没关系。",
+        "confirmations": [
+          "出发前向景区核验当天开放状态、天气和无障碍/休息设施",
+          "如老人出现疲劳、疼痛或眩晕，当日取消后续活动并优先休息或求助",
+          "康养项目为演示排程，须由酒店确认开放时间、资质、名额及老人适用性。"
+        ]
+      }
+    ],
+    "restaurant_candidates": [
+      {
+        "id": "candidate-green-gem",
+        "name": "绿宝石",
+        "address": "成都市都江堰市外北街886号",
+        "area": "都江堰城区",
+        "category": "餐饮候选",
+        "elderly_dining_tip": "如需清淡饮食、少辣或软烂菜品，请在点餐前向店家沟通。",
+        "source_level": "public_web_candidate",
+        "source_url": "https://www.eastchinatrip.com/zh-hant/chengdu-dujiangyan-scenic-area-guide/",
+        "realtime_confirmation_required": true,
+        "note": "地址来源于公开攻略资料；营业状态、菜品、价格、停车和无障碍情况需出发前再次确认。"
+      },
+      {
+        "id": "candidate-fang-liangfen",
+        "name": "方凉粉家常菜馆",
+        "address": "成都市都江堰市三官桥下街9-13号",
+        "area": "都江堰城区",
+        "category": "餐饮候选",
+        "elderly_dining_tip": "建议避开高峰，并提前沟通少油、少辣、菜量与座位需求。",
+        "source_level": "public_web_candidate",
+        "source_url": "https://www.eastchinatrip.com/zh-hant/chengdu-dujiangyan-scenic-area-guide/",
+        "realtime_confirmation_required": true,
+        "note": "地址来源于公开攻略资料；营业状态、菜品、价格、停车和无障碍情况需出发前再次确认。"
+      },
+      {
+        "id": "candidate-qingcheng-jia",
+        "name": "青城甲（青城山店）",
+        "address": "青城山风景区渠山路上元社区6组52号附2号",
+        "area": "青城山片区",
+        "category": "餐饮候选",
+        "elderly_dining_tip": "可提前沟通少油少盐、菜量与座位需求；如行动不便，请确认停车、通道和卫生间情况。",
+        "source_level": "platform_candidate",
+        "source_url": "https://gs.ctrip.com/html5/you/foods/fooddetail/143879/16443868.html",
+        "realtime_confirmation_required": true,
+        "note": "地址来源于携程公开店铺资料；营业状态、预订、菜品、价格和适老设施需出发前再次确认。"
+      }
+    ],
+    "restaurant_section": {
+      "headline": "今天吃得舒服，也是一段好旅程。",
+      "subheadline": "餐饮候选均带有地址和适老点餐提醒，请在出发前确认。",
+      "render_style": "restaurant_card_list"
+    },
+    "wellness": {
+      "mode": "selected",
+      "headline": "酒店康养服务，按您的心意来安排。",
+      "selected_categories": [
+        "温泉",
+        "营养餐"
+      ],
+      "candidate_programs": [
+        {
+          "name": "温泉放松时段（演示）",
+          "category": "休闲放松",
+          "time_slots": [
+            "15:30-17:00",
+            "19:00-20:00"
+          ],
+          "safety_note": "高血压、心血管疾病、皮肤问题或身体不适者，应先咨询医生并由酒店专业人员评估；不可替代医疗建议。"
+        },
+        {
+          "name": "清淡营养晚餐建议（演示）",
+          "category": "餐饮",
+          "time_slots": [
+            "17:30-19:00"
+          ],
+          "safety_note": "过敏、糖尿病、肾病及特殊饮食需求须由本人或家属提前向酒店确认。"
+        }
+      ],
+      "notice": "默认仅展示候选服务；用户确认后才写入行程。所有项目均需由酒店再次确认。"
+    },
+    "student_guide": {
+      "requested": true,
+      "headline": "有人陪着，旅程更从容。",
+      "candidates": [
+        {
+          "name": "林同学（平台专属学生导游·演示）",
+          "score": 80,
+          "reasons": [
+            "平台专属学生导游候选（演示，待服务确认）",
+            "已完成适老沟通与基础应急培训",
+            "擅长文化讲解",
+            "具备无障碍协助服务标签"
+          ],
+          "service_scope": [
+            "景区陪同",
+            "文化讲解",
+            "沟通协助",
+            "基础应急求助协助"
+          ],
+          "service_boundary": "仅提供陪同、讲解、沟通与求助协助；不提供医疗、理疗、按摩、诊断或给药服务。",
+          "data_status": "demo_pending_partner_confirmation"
+        },
+        {
+          "name": "周同学（平台专属学生导游·演示）",
+          "score": 65,
+          "reasons": [
+            "平台专属学生导游候选（演示，待服务确认）",
+            "已完成适老沟通与基础应急培训",
+            "具备无障碍协助服务标签"
+          ],
+          "service_scope": [
+            "景区陪同",
+            "酒店往返协助",
+            "康养项目签到协助",
+            "基础应急求助协助"
+          ],
+          "service_boundary": "仅提供陪同、沟通与求助协助；不可操作康养服务，不提供医疗、理疗、按摩、诊断或给药服务。",
+          "data_status": "demo_pending_partner_confirmation"
+        }
+      ],
+      "notice": "学生导游仅提供陪同、沟通、讲解和协助求助；确认排班、集合点、家属授权与协议后再服务。"
+    },
+    "global_safety_copy": "不追赶打卡；长者当天感觉不舒服时，休息永远优先于行程。",
+    "render_hints": {
+      "page_layout": "senior_travel_timeline",
+      "palette": "warm_cream",
+      "show_day_tabs": true,
+      "show_confirmations_as": "bottom_sheet_or_notice_card",
+      "do_not_render_raw_llm_answer": true
+    },
+    "manual_confirmations": [
+      "当前合作酒店、康养项目及学生导游均为可替换的演示数据，不代表真实合作、实时房态或可预订服务。",
+      "酒店房态、套餐价格、服务资质、开放时段与适老设施需由运营人员或酒店确认。",
+      "学生导游推送后仍需确认排班、服务时段、集合点、本人/家属授权与服务协议。",
+      "本系统不提供医疗诊断、护理或紧急救援决策。"
+    ]
+  }
+}

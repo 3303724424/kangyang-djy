@@ -1,0 +1,34 @@
+[
+  {
+    "id": "meituan-fange-private-spring-garden-homestay",
+    "name": "青城·梵歌私汤花园民宿",
+    "platform": "美团",
+    "source_level": "platform_candidate",
+    "property_type": "舒适型民宿",
+    "displayed_opening_year": 2024,
+    "displayed_location_relation": "截图显示距青城山站约3.2公里、距青城山约2.5公里；需按出行当日导航核验。",
+    "tags": ["私汤", "花园", "儿童餐", "免费停车", "洗衣机", "冰箱", "茶室", "户外榻榻米", "会议厅"],
+    "policy_snapshot": "截图显示入住时间14:00后、离店时间12:00前，酒店仅接待大陆客人；具体政策需下单前确认。",
+    "evidence_type": "user_provided_meituan_screenshots",
+    "evidence_files": ["8af30f973b8eac47e4a53c4d718ae21a1dd3493b43eaf87a65aa29d33fb1a099.png", "1ea44bf4bc192d5de3df6b29aee95e2d142f7b42009eec0cbd85c2a3f352906b.png", "f911942df92e128ea7c3c21425a9e64359f488e63e9eb7978d4ab2886c8ea1df.png", "aed1b3f18494869eec6f517035f7b8a9168971a8331f617c94c4d3c0a1228222.png"],
+    "collected_at": "2026-11-02",
+    "review_status": "platform_collected",
+    "realtime_confirmation_required": ["房价", "房态", "私汤可用性", "停车政策", "适老设施", "接送服务"]
+  },
+  {
+    "id": "meituan-laichuan-wellness-homestay",
+    "name": "莱川康养民宿（青城山景区店）",
+    "platform": "美团",
+    "source_level": "platform_candidate",
+    "property_type": "经济型民宿",
+    "displayed_opening_year": 2026,
+    "displayed_location_relation": "截图显示距青城山站约1.7公里、距青城山约2.5公里；需按出行当日导航核验。",
+    "tags": ["康养", "温馨双床房", "温馨大床房", "免费停车"],
+    "policy_snapshot": "截图显示酒店仅接待大陆客人；入住与离店规则需在下单前再次确认。",
+    "evidence_type": "user_provided_meituan_screenshots",
+    "evidence_files": ["7ce0ddfff4968dc3aa0dbf228ce840dcd6a28c9805a74e71e77024b85c3c8657.png", "cd1375b290438b7de1d8cbe4b4103f27f94557a60093f0d48ff85c833be4fab9.png"],
+    "collected_at": "2026-11-02",
+    "review_status": "platform_collected",
+    "realtime_confirmation_required": ["房价", "房态", "康养服务内容", "温泉房是否可用", "适老设施", "停车规则"]
+  }
+]

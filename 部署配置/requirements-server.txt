@@ -1,0 +1,11 @@
+# 先按服务器 CUDA/显卡驱动安装匹配的 GPU 版 PyTorch；不要把 Windows 本机的 torch wheel 直接复制到 Linux。
+# 以下是当前项目除 PyTorch 外的 Python 运行依赖。
+fastapi==0.162.2
+uvicorn[standard]==0.54.0
+transformers==5.19.0
+peft==0.21.2
+accelerate==1.15.0
+bitsandbytes==0.50.2
+sentencepiece==0.2.2
+protobuf==7.36.2
+safetensors==0.8.0

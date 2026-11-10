@@ -1,0 +1,35 @@
+[
+  {
+    "id": "demo-qingcheng-spring",
+    "name": "青城温泉康养住居（演示合作酒店）",
+    "location": "青城山片区",
+    "rating": null,
+    "price_per_night": null,
+    "accessible": true,
+    "tags": ["康养", "温泉", "营养餐", "安静", "停车"],
+    "cooperation_status": "demo_pending_partner_confirmation",
+    "note": "虚拟演示数据：尚未建立真实合作关系，房价、房态、服务与适老设施均须以酒店确认结果为准。"
+  },
+  {
+    "id": "demo-dujiangyan-city",
+    "name": "都江堰城市便利康养酒店（演示合作酒店）",
+    "location": "都江堰城区",
+    "rating": null,
+    "price_per_night": null,
+    "accessible": true,
+    "tags": ["无障碍", "营养餐", "安静", "停车"],
+    "cooperation_status": "demo_pending_partner_confirmation",
+    "note": "虚拟演示数据：尚未建立真实合作关系，房价、房态、服务与适老设施均须以酒店确认结果为准。"
+  },
+  {
+    "id": "demo-qingcheng-rest",
+    "name": "青城静养度假酒店（演示合作酒店）",
+    "location": "青城山片区",
+    "rating": null,
+    "price_per_night": null,
+    "accessible": false,
+    "tags": ["康养", "静养", "园林", "停车"],
+    "cooperation_status": "demo_pending_partner_confirmation",
+    "note": "虚拟演示数据：尚未建立真实合作关系，房价、房态、服务与适老设施均须以酒店确认结果为准。"
+  }
+]

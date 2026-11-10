@@ -1,0 +1,38 @@
+[
+  {
+    "id": "candidate-green-gem",
+    "name": "绿宝石",
+    "address": "成都市都江堰市外北街886号",
+    "area": "都江堰城区",
+    "category": "餐饮候选",
+    "elderly_dining_tip": "如需清淡饮食、少辣或软烂菜品，请在点餐前向店家沟通。",
+    "source_level": "public_web_candidate",
+    "source_url": "https://www.eastchinatrip.com/zh-hant/chengdu-dujiangyan-scenic-area-guide/",
+    "realtime_confirmation_required": true,
+    "note": "地址来源于公开攻略资料；营业状态、菜品、价格、停车和无障碍情况需出发前再次确认。"
+  },
+  {
+    "id": "candidate-fang-liangfen",
+    "name": "方凉粉家常菜馆",
+    "address": "成都市都江堰市三官桥下街9-13号",
+    "area": "都江堰城区",
+    "category": "餐饮候选",
+    "elderly_dining_tip": "建议避开高峰，并提前沟通少油、少辣、菜量与座位需求。",
+    "source_level": "public_web_candidate",
+    "source_url": "https://www.eastchinatrip.com/zh-hant/chengdu-dujiangyan-scenic-area-guide/",
+    "realtime_confirmation_required": true,
+    "note": "地址来源于公开攻略资料；营业状态、菜品、价格、停车和无障碍情况需出发前再次确认。"
+  },
+  {
+    "id": "candidate-qingcheng-jia",
+    "name": "青城甲（青城山店）",
+    "address": "青城山风景区渠山路上元社区6组52号附2号",
+    "area": "青城山片区",
+    "category": "餐饮候选",
+    "elderly_dining_tip": "可提前沟通少油少盐、菜量与座位需求；如行动不便，请确认停车、通道和卫生间情况。",
+    "source_level": "platform_candidate",
+    "source_url": "https://gs.ctrip.com/html5/you/foods/fooddetail/143879/16443868.html",
+    "realtime_confirmation_required": true,
+    "note": "地址来源于携程公开店铺资料；营业状态、预订、菜品、价格和适老设施需出发前再次确认。"
+  }
+]

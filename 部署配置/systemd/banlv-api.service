@@ -1,0 +1,16 @@
+[Unit]
+Description=Banlv Dujiangyan senior travel FastAPI service
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/opt/banlv/backend
+EnvironmentFile=/opt/banlv/.env
+ExecStart=/opt/banlv/venv/bin/python -m uvicorn app.api:app --host 127.0.0.1 --port 8000 --workers 1
+Restart=always
+RestartSec=5
+TimeoutStopSec=60
+
+[Install]
+WantedBy=multi-user.target

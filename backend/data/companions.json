@@ -1,0 +1,38 @@
+[
+  {
+    "id": "demo-guide-lin",
+    "name": "林同学（平台专属学生导游·演示）",
+    "trained": true,
+    "platform_exclusive": true,
+    "availability_status": "demo_available",
+    "tags": ["文化讲解", "山水慢游", "无障碍协助"],
+    "service_scope": ["景区陪同", "文化讲解", "沟通协助", "基础应急求助协助"],
+    "service_boundary": "仅提供陪同、讲解、沟通与求助协助；不提供医疗、理疗、按摩、诊断或给药服务。",
+    "data_status": "demo_pending_partner_confirmation",
+    "note": "虚拟演示候选：实际服务前须完成身份、培训、排班、家属授权与服务协议确认。"
+  },
+  {
+    "id": "demo-guide-zhou",
+    "name": "周同学（平台专属学生导游·演示）",
+    "trained": true,
+    "platform_exclusive": true,
+    "availability_status": "demo_available",
+    "tags": ["康养陪伴", "温泉疗愈", "无障碍协助"],
+    "service_scope": ["景区陪同", "酒店往返协助", "康养项目签到协助", "基础应急求助协助"],
+    "service_boundary": "仅提供陪同、沟通与求助协助；不可操作康养服务，不提供医疗、理疗、按摩、诊断或给药服务。",
+    "data_status": "demo_pending_partner_confirmation",
+    "note": "虚拟演示候选：实际服务前须完成身份、培训、排班、家属授权与服务协议确认。"
+  },
+  {
+    "id": "demo-guide-chen",
+    "name": "陈同学（非可推送候选）",
+    "trained": false,
+    "platform_exclusive": false,
+    "availability_status": "unavailable",
+    "tags": ["熊猫探访"],
+    "service_scope": [],
+    "service_boundary": "未完成培训，不可提供服务。",
+    "data_status": "demo_not_eligible",
+    "note": "用于验证筛选规则，不应进入推荐列表。"
+  }
+]

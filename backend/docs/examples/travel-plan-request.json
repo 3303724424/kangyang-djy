@@ -1,0 +1,21 @@
+{
+  "question": "两位七十多岁长者去都江堰三天，想慢游、泡温泉，需要学生导游陪同。",
+  "name": "张阿姨",
+  "age_group": "70-79岁",
+  "days": 3,
+  "travelers": 2,
+  "budget": 2600,
+  "mobility": "需要减少步行",
+  "preferences": [
+    "文化讲解",
+    "轻松慢游",
+    "温泉"
+  ],
+  "travel_date": "2026-11-15",
+  "needs_student_guide": true,
+  "wellness_mode": "selected",
+  "wellness_categories": [
+    "温泉",
+    "营养餐"
+  ]
+}
